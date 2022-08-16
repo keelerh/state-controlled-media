@@ -1,9 +1,9 @@
 entity,twitter_account,facebook_account,instagram_account,telegram_account,vk_account,tiktok_account,rumble_account,youtube_account,soundcloud_account,ok_account
 RT,RT_com,RTnews,rt,rtnews,rt_international,,RTNews,UCpwvZwUam-URkxB7g4USKpg,rttv,
-RT Russian,RT_russian,RTRussian,rtrussian,rt_russian,russian_rtd,,,,,
+RT Russian,RT_russian,RTRussian,rtrussian,rt_russian,russian_rtd,,,,,rtrussian
 RT America,RT_America,RTAmerica,rt_america,RTAmerica,,,,,,
 RT UK,,RTUKnews,RTUKnews,,,,,RTUKnews,,
-RIA Novosti,rianru,rianru,ria_novosti,rian_ru,ria,ria_novosti,,,,
+RIA Novosti,rianru,rianru,ria_novosti,rian_ru,ria,ria_novosti,,,,ria
 TASS,tassagency_en,tassagency,tass_agency,tassagency_en,tassagency,tass_agency,,,,
 Redfish,redfishstream,redfishstream,redfishstream,redfishstream,,redfishstream,,,,
 Lenta.Ru,lentaruofficial,lentaru,etolentaru,lentadnya,lentaru,lentaru,,UCfqU-kKXq868D6d4fy8fhkA,,lentaru
