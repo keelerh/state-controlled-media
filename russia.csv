@@ -1,10 +1,11 @@
 entity,domain,currently_active,twitter_account,facebook_account,instagram_account,telegram_account,vk_account,tiktok_account,rumble_account,youtube_account,soundcloud_account,ok_account
 RT,rt.com,TRUE,RT_com,RTnews,rt,rtnews,rt_international,,RTNews,UCpwvZwUam-URkxB7g4USKpg,rttv,
-RT Russian,russian.rt.com,TRUE,RT_russian,RTRussian,rtrussian,rt_russian,russian_rtd,,,,,rtrussian
+RT Russian,russian.rt.com,TRUE,RT_russian,RTRussian,rtrussian,rt_russian,russian_rtd,russian_rtd,,,,rtrussian
 RT America,rt.com/usa,FALSE,RT_America,RTAmerica,rt_america,RTAmerica,,,,,,
 RT UK,rt.com/uk,FALSE,RTUKnews,RTUKnews,RTUKnews,,,,,RTUKnews,,
 RIA Novosti,ria.ru,TRUE,rianru,rianru,ria_novosti,rian_ru,ria,ria_novosti,,,,ria
-TASS,tass.com,TRUE,tassagency_en,tassagency,tass_agency,tassagency_en,tassagency,tass_agency,,,,
+TASS (English),tass.com,TRUE,tassagency_en,tassagency.eng,,tassagency_en,,tass_agency,,,,
+TASS (Russian),tass.ru,TRUE,tassagency,tassagency,tass_agency,,tassagency,,,tassagency,,tassagency
 Redfish,redfish.media,TRUE,redfishstream,redfishstream,redfishstream,redfishstream,,redfishstream,,,,
 Lenta.Ru,lenta.ru,TRUE,lentaruofficial,lentaru,etolentaru,lentadnya,lentaru,lentaru,,UCfqU-kKXq868D6d4fy8fhkA,,lentaru
 Sputnik,sputniknews.com,TRUE,SputnikInt,SputnikNews,sputnik_news,sputniknewsint,sputniklive,,RadioSputnik,,,
