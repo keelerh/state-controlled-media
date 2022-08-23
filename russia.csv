@@ -1,12 +1,12 @@
-entity,twitter_account,facebook_account,instagram_account,telegram_account,vk_account,tiktok_account,rumble_account,youtube_account,soundcloud_account,ok_account
-RT,RT_com,RTnews,rt,rtnews,rt_international,,RTNews,UCpwvZwUam-URkxB7g4USKpg,rttv,
-RT Russian,RT_russian,RTRussian,rtrussian,rt_russian,russian_rtd,,,,,rtrussian
-RT America,RT_America,RTAmerica,rt_america,RTAmerica,,,,,,
-RT UK,,RTUKnews,RTUKnews,,,,,RTUKnews,,
-RIA Novosti,rianru,rianru,ria_novosti,rian_ru,ria,ria_novosti,,,,ria
-TASS,tassagency_en,tassagency,tass_agency,tassagency_en,tassagency,tass_agency,,,,
-Redfish,redfishstream,redfishstream,redfishstream,redfishstream,,redfishstream,,,,
-Lenta.Ru,lentaruofficial,lentaru,etolentaru,lentadnya,lentaru,lentaru,,UCfqU-kKXq868D6d4fy8fhkA,,lentaru
-Sputnik,SputnikInt,SputnikNews,sputnik_news,sputniknewsint,sputniklive,,RadioSputnik,,,
-Sputnik US,,,,sputniknewsus,,,,,,
-Zvezda,zvezdanews,tvzvezda,zvezdanews,zvezdanews,tvzvezda,zvezdanews,,UCgONdflkLRAluyngeXsmT4w,,
+entity,domain,currently_active,twitter_account,facebook_account,instagram_account,telegram_account,vk_account,tiktok_account,rumble_account,youtube_account,soundcloud_account,ok_account
+RT,rt.com,TRUE,RT_com,RTnews,rt,rtnews,rt_international,,RTNews,UCpwvZwUam-URkxB7g4USKpg,rttv,
+RT Russian,russian.rt.com,TRUE,RT_russian,RTRussian,rtrussian,rt_russian,russian_rtd,,,,,rtrussian
+RT America,rt.com/usa,FALSE,RT_America,RTAmerica,rt_america,RTAmerica,,,,,,
+RT UK,rt.com/uk,FALSE,RTUKnews,RTUKnews,RTUKnews,,,,,RTUKnews,,
+RIA Novosti,ria.ru,TRUE,rianru,rianru,ria_novosti,rian_ru,ria,ria_novosti,,,,ria
+TASS,tass.com,TRUE,tassagency_en,tassagency,tass_agency,tassagency_en,tassagency,tass_agency,,,,
+Redfish,redfish.media,TRUE,redfishstream,redfishstream,redfishstream,redfishstream,,redfishstream,,,,
+Lenta.Ru,lenta.ru,TRUE,lentaruofficial,lentaru,etolentaru,lentadnya,lentaru,lentaru,,UCfqU-kKXq868D6d4fy8fhkA,,lentaru
+Sputnik,sputniknews.com,TRUE,SputnikInt,SputnikNews,sputnik_news,sputniknewsint,sputniklive,,RadioSputnik,,,
+Sputnik US,sputniknews.com/us,TRUE,,,,sputniknewsus,,,,,,
+Zvezda,tvzvezda.ru,TRUE,zvezdanews,tvzvezda,zvezdanews,zvezdanews,tvzvezda,zvezdanews,,UCgONdflkLRAluyngeXsmT4w,,
